@@ -8,12 +8,13 @@ After much frustration learning to write cypher scripts for the purposes of impo
 The current implementaiton is BASIC - it has a few nice tricks built into it, but fundamentally, it is intended for first time creation / imports of CSV data into neo4j.  Other capabilties will be added in the future (e.g. updating and relationship creation).
 
 Why TCL?!
- -- easy to learn
- -- easy to use
- -- typeless scripting
- -- object oriented
- -- works
- -- it is what I know the best.. :)
+
+- easy to learn
+- easy to use
+- typeless scripting
+- object oriented
+- works
+- it is what I know the best.. :)
  
 
 
