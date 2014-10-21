@@ -13,7 +13,8 @@ Why TCL?!
 - easy to use
 - typeless scripting
 - object oriented
-- works
+- it works
+- it is standard install on OSX and Linux
 - it is what I know the best.. :)
  
 
